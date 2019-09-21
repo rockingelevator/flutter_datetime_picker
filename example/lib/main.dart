@@ -233,6 +233,9 @@ class HomePage extends StatelessWidget {
                   'show custom time picker,\nyou can custom picker model like this',
                   style: TextStyle(color: Colors.blue),
                 )),
+            DateTimePicker(
+              
+            )
           ],
         ),
       ),
